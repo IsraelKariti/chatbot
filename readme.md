@@ -1,0 +1,1 @@
+The csv_to_db script reads the movies.csv file and insert it to the db with the proper embeddings
